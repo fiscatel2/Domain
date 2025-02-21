@@ -740,3 +740,4 @@ yangming.website
 yellowbo.cn
 ylgceliks.com
 yze.t.sogou.com
+favor.ydns.eu
