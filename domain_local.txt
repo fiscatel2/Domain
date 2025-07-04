@@ -743,3 +743,4 @@ yze.t.sogou.com
 favor.ydns.eu
 Anizom.com
 Karlost.club
+cleanfile.xyz
