@@ -824,3 +824,6 @@ azureglobalaccelerator.com
 panelv1.hostingzealoft.today
 cloudflare.redirectpartners.com
 findcloudflare.com
+dnshook.site	 # 970254
+webhook.site	 # 970254
+oast.fun	 # 970254
