@@ -823,3 +823,4 @@ azuredeploypackages.net
 azureglobalaccelerator.com
 panelv1.hostingzealoft.today
 cloudflare.redirectpartners.com
+findcloudflare.com
