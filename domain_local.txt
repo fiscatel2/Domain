@@ -1219,4 +1219,11 @@ sci.officesecure.online
 auth.officesecure.online
 advath.officesecure.online
 dotfoods.officesecure.online
+https://association-google.xyz/adspect-proxy.php
+https://appprotector.online/adspect-proxy.php
+https://appprotector.online/adspect-file.php
+https://protectorapp.online/adspect-proxy.php
+https://protectorapp.online/adspect-file.php
+https://association-google.xyz/adspect-file.php
+https://fanqut.eu.com/about.html
 
